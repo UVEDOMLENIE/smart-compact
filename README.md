@@ -124,4 +124,4 @@ claude plugin install smart-compact@smart-compact
 
 <img src="assets/nerv.svg" width="96" alt="NERV" align="right">
 
-Автор — KoZaVirt. Соавтор — [NERV](https://github.com/UVEDOMLENIE/nerv). Лицензия — MIT.
+Автор — [KoZaVirt](https://github.com/listapad2024). Соавтор — [NERV](https://github.com/UVEDOMLENIE/nerv). Лицензия — MIT.
