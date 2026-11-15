@@ -1,0 +1,2 @@
+# Типы движка Claude Code: их пишет сам движок, нужны только для tsc.
+.claude-plugin/types/

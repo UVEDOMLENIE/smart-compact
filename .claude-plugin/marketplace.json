@@ -1,0 +1,12 @@
+{
+  "name": "smart-compact",
+  "owner": { "name": "UVEDOMLENIE" },
+  "description": "smart-compact: сжать чат Claude Code вовремя и ничего не потерять",
+  "plugins": [
+    {
+      "name": "smart-compact",
+      "source": "./",
+      "description": "Кнопка с размером чата над полем ввода; сохранёнка перед сжатием и обратно после; авто-сжатие, пока кэш жив."
+    }
+  ]
+}
